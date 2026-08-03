@@ -164,3 +164,9 @@ After completing the configuration, extensive testing was performed to verify DH
 This project successfully simulates a real-world enterprise network infrastructure where multiple departments operate within isolated VLANs while maintaining full communication across the organization. By implementing OSPF, DHCP, SSH, wireless networking, and switch security, the network provides scalability, efficient routing, centralized management, and secure access. The project strengthened my practical understanding of enterprise networking concepts and hands-on Cisco device configuration using Cisco Packet Tracer.
 
 ---
+
+## 👨‍💻 Author
+
+### Srinath Samudrala
+
+This project was developed as part of my practical learning journey to strengthen my understanding of enterprise network design, VLAN implementation, dynamic routing, network security, and infrastructure management using Cisco Packet Tracer. Every configuration was implemented, tested, and verified to simulate a realistic organizational network environment.
