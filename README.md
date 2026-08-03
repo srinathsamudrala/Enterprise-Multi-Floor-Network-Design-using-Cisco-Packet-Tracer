@@ -4,7 +4,7 @@ A complete enterprise network designed and implemented in **Cisco Packet Tracer*
 
 The goal of this project was to build a scalable and secure network where every department is logically separated while allowing seamless communication across the entire organization.
 
-![Logo](images/logo.png)
+![Project Screenshot]([https://example.com](https://github.com/srinathsamudrala/Enterprise-Multi-Floor-Network-Design-using-Cisco-Packet-Tracer/blob/main/Screenshot/Enterprise-Multi-Floor-Network-Design.png?raw=true))
 
 ---
 
